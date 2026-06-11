@@ -17,4 +17,4 @@ jobs:
 
       - name: Run Python
 
-        run: python number.py
+        run: python python/number.py
